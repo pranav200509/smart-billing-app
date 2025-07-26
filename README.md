@@ -9,3 +9,6 @@ A web-based billing software using Flask that allows product selection, cart man
 - Clear cart after checkout
 
 ## Run Locally
+```bash
+pip install -r requirements.txt
+python app.py
